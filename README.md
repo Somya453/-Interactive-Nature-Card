@@ -1,16 +1,11 @@
- 🎨 GeometricArt
- 
- #GeometricArt
+ # 🌿 Interactive Nature Card  
 
-A simple project that generates and visualizes colorful geometric shapes dynamically.  
+An elegant and interactive nature-themed picture card featuring a **beautiful pond, vibrant plants, and a clickable button**.  
 
 ## 🖼️ About  
-This project displays a collection of **squares, circles, and rotated shapes** in a visually appealing way. It can be used for:  
-- **Artistic Design** – Creating abstract geometric compositions.  
-- **Physics Simulations** – Understanding object positioning and rotation.  
-- **Graphics Programming** – Practicing shape rendering and transformations.  
+This project displays a scenic **nature image with an interactive button**. It can be used for:  
+- **Digital Greeting Cards** 🌸  
+- **Nature-Themed Web Components** 🌍  
+- **UI/UX Animation Practice** 🎨  
 
-## 🚀 Features  
-✅ Randomized shape generation 🟩 🔵  
-✅ Rotations and color variations 🎨  
-✅ Interactive or static visualization 👀  
+
