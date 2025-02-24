@@ -1,0 +1,60 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    background-image: linear-gradient(
+    to right,
+    orange,
+    yellow,
+    greenyellow,
+    green
+  );
+
+   
+    width: 41vw;
+    height: 6vh;
+    cursor: pointer;
+    font-size: 20px;
+    display: block;
+
+    
+    
+    margin: 0;
+}
+
+
+
+
+img{
+    display: block;
+    width: 41vw;
+}
+
+
+
+
+.div {
+    
+    margin: 2%;
+    
+    padding-top: 10%;
+    padding-left: 30%;
+    display: block;
+    
+    width: 60vw;
+    
+    position: relative;
+    
+  
+   
+  }
+
+
+  button:hover {
+    color: white;
+    
+  }
+  
